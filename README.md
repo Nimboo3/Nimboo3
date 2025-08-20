@@ -6,7 +6,7 @@ Open to collaborating, contributing, or helping out where it makes sense.
 ---
 
 ### 🛠️ Tech I work with  
-Java · C++ · Python · JavaScript · React · React Native · Node.js · Next.js · Tensorflow
+Java · C++ · Python · JavaScript · React · React Native · Node.js · Next.js · Tensorflow <br>
 MongoDB · PostgreSQL · Supabase · Docker · AWS  
 
 ### 🔭 Working on  
