@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hey there, I'm Tanmay!  
 
-<!--
-**Nimboo3/Nimboo3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS major who codes, freelances, and occasionally dives into ML projects.  
 
-Here are some ideas to get you started:
+Open to collaborating, contributing, or helping out where it makes sense.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech I work with  
+Java · C++ · Python · JavaScript · Tensorflow
+React · React Native · Node.js · Next.js  
+MongoDB · PostgreSQL · Supabase · AWS  
+
+### 🔭 Working on  
+- A multi-tenant school management SaaS with **React Native + Supabase** — building it with role-based access, tenant isolation, and production-ready workflows.  
+
+### 💡 Currently exploring
+- Shipping projects to **AWS** -> deployments, simple serverless functions, and static hosting.  
+- Folding **TypeScript** into my React/Node projects.  
+- Exploring **Java + Spring** to see how backend dev feels outside the JS world.
+- Trying out **Pytorch**
+
+---
+
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/tanmay-patel-bb1523100/) · tptanmaypatel9@gmail.com  
