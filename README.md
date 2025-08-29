@@ -1,6 +1,6 @@
 # Hey there, I'm Tanmay!  
 
-CS major who codes, freelances, and occasionally dives into ML projects.  
+CS major who codes, freelances, and enjoys working on Machine Learning and Deep Learning projects.  
 Open to collaborating, contributing, or helping out where it makes sense.  
 
 ---
