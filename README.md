@@ -6,8 +6,9 @@ Open to collaborating, contributing, or helping out where it makes sense.
 ---
 
 ### 🛠️ Tech I work with  
-Java · C++ · Python · JavaScript · React · React Native · Node.js · Next.js · Tensorflow <br>
-MongoDB · PostgreSQL · Supabase · Docker · AWS  
+Java · C++ · Python · JavaScript · TypeScript ·React · React Native · Node.js · Next.js<br>
+MongoDB · PostgreSQL · Supabase · Docker · AWS <br>
+Tensorflow · Pytorch · RAG · pgvector
 
 ### 🔭 Working on  
 - A multi-tenant school management SaaS with **React Native + Supabase** - building it with role-based access, tenant isolation, and production-ready workflows.  
