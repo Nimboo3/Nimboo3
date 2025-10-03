@@ -18,4 +18,6 @@ Tensorflow · Pytorch · RAG · pgvector
 - Exploring **Java + Spring** to see how backend dev feels outside the JS world.
 ---
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Nimboo3?cardType=level&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
+
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/tanmay-patel-bb1523100/) · tptanmaypatel9@gmail.com  
