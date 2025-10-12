@@ -18,6 +18,8 @@ Tensorflow · Pytorch · RAG · pgvector
 - Exploring **Java + Spring** to see how backend dev feels outside the JS world.
 ---
 
+[![An image of @nimboo3's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nimboo3)](https://holopin.io/@nimboo3)
+
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Nimboo3?cardType=level&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
 
 
