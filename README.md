@@ -21,9 +21,9 @@ Tensorflow · Pytorch · RAG · pgvector
 
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Nimboo3?cardType=level&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
+<img width="203" height="203" alt="image" src="https://github.com/user-attachments/assets/a2afb4a0-165b-40c1-970f-02244d694bfd" />
 
 
 
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/tanmay-patel-bb1523100/) · tptanmaypatel9@gmail.com  
 
-[![An image of @nimboo3's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nimboo3)](https://holopin.io/@nimboo3)
