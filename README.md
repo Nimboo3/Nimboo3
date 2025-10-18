@@ -10,9 +10,9 @@ MongoDB · PostgreSQL · Supabase · AWS <br>
 Tensorflow · Pytorch · RAG · pgvector
 
 ### Working on  
-- A multi-tenant SaaS service with **React Native + Supabase** - building it with role-based access, tenant isolation.  
+- A multi-tenant school management SaaS with **React Native + Supabase** - building it with role-based access, tenant isolation.  
 
-### Currently exploring
+### Currently
 - Shipping projects to **AWS**.  
 - Folding **TypeScript** into my React/Node projects.  
 - Trying out **Java + Spring**.
