@@ -4,6 +4,22 @@ CS major. Open to collaborating, contributing, or helping out where it makes sen
 
 ---
 
+
+#### Working on  
+- A multi-tenant school management SaaS, building it with role-based access, tenant isolation.  
+
+#### Currently
+- Shipping projects to **AWS**.  
+- Folding **TypeScript** into my React/Node projects.  
+- Trying out **Java + Spring**.
+---
+
+
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Nimboo3?cardType=level&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
+<img width="203" height="203" alt="image" src="https://github.com/user-attachments/assets/a2afb4a0-165b-40c1-970f-02244d694bfd" />
+
+
 <h3>Tech I Work With</h3>
 
 <h4>Languages</h4>
@@ -50,23 +66,7 @@ CS major. Open to collaborating, contributing, or helping out where it makes sen
   <img src="https://img.shields.io/badge/Terraform-%237B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sentry-%23FB4226.svg?style=for-the-badge&logo=sentry&logoColor=white"/>
 </p>
-
-
-#### Working on  
-- A multi-tenant school management SaaS with **React Native + Supabase** - building it with role-based access, tenant isolation.  
-
-#### Currently
-- Shipping projects to **AWS**.  
-- Folding **TypeScript** into my React/Node projects.  
-- Trying out **Java + Spring**.
----
-
-
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Nimboo3?cardType=level&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
-<img width="203" height="203" alt="image" src="https://github.com/user-attachments/assets/a2afb4a0-165b-40c1-970f-02244d694bfd" />
-
-
+<br>
 
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/tanmay-patel-bb1523100/) · tptanmaypatel9@gmail.com  
 
