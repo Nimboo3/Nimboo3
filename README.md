@@ -15,7 +15,6 @@
 
 CS major. Open to collaborating, contributing, or helping out where it makes sense.  
 
----
 
 
 #### Working on  
