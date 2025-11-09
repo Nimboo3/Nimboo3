@@ -1,5 +1,18 @@
 # Hey there, I'm Tanmay!  
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/tanmaypatel3/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/dement0phobe" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://github.com/sponsors/Nimboo3" target="_blank">
+    <img src="https://img.shields.io/badge/Sponsor-%23EA4AAA.svg?style=for-the-badge&logo=githubsponsors&logoColor=white" />
+  </a>
+</p>
+
+
 CS major. Open to collaborating, contributing, or helping out where it makes sense.  
 
 ---
