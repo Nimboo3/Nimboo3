@@ -19,12 +19,13 @@ Final year CS major (2026). Open to collaborating, contributing, or helping out 
 
 
 #### Working on  
+- A GUI that builds custom MCPs (Model Context Protocol) and includes chat for AI models with MCP support .
 - A multi-tenant school management SaaS, building it with role-based access, tenant isolation.  
 
 #### Currently
-- Shipping projects to **AWS**.  
-- Folding **TypeScript** into my React/Node projects.  
+- Shipping projects to **AWS**.   
 - Trying out **Java + Spring**.
+- Exploring Distributed Systems
 ---
 
 
