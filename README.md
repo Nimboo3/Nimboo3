@@ -23,7 +23,7 @@ Final year CS major (2026). Open to collaborating, contributing, or helping out 
 - A multi-tenant school management SaaS, building it with role-based access, tenant isolation.  
 
 #### Currently
-- Shipping projects to **AWS**.   
+- Deploying production-style workloads on **AWS**.  
 - Trying out **Java + Spring**.
 - Exploring Distributed Systems
 ---
