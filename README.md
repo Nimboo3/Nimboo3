@@ -19,7 +19,7 @@ Final year CS major (2026). Open to collaborating, contributing, or helping out 
 
 
 #### Working on  
-- A GUI that builds custom MCPs (Model Context Protocol) and includes chat for AI models with MCP support .
+- A GUI for custom MCPs (Model Context Protocol) and chat for AI models with MCP support .
 - A multi-tenant school management SaaS, building it with role-based access, tenant isolation.  
 
 #### Currently
