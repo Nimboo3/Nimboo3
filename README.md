@@ -17,11 +17,6 @@
 Final year CS major (2026). Open to collaborating, contributing, or helping out where it makes sense.  
 
 
-
-#### Working on  
-- A GUI for custom MCPs (Model Context Protocol) and chat for AI models with MCP support .
-- A multi-tenant school management SaaS, building it with role-based access, tenant isolation.  
-
 #### Currently
 - Deploying production-style workloads on **AWS**.  
 - Trying out **Java + Spring**.
