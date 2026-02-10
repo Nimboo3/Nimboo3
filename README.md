@@ -7,9 +7,9 @@
   <a href="https://x.com/dement0phobe" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
   </a>
-  <a href="https://github.com/sponsors/Nimboo3" target="_blank" rel="noopener noreferrer">
+  <!-- <a href="https://github.com/sponsors/Nimboo3" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Sponsor-%23EA4AAA.svg?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor" />
-  </a>
+  </a> -->
 </p>
 
 
