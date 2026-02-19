@@ -14,7 +14,7 @@
 
 
 
-Final year CS major (2026), Full Stack SWE Intern (AI/ML) @ Airbus. 
+Final year CS major (2026), Full Stack SWE Intern (AI/ML) @ Airbus.  <br>
 Open to collaborating, contributing, or helping out where it makes sense.  
 
 
