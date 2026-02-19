@@ -14,7 +14,7 @@
 
 
 
-Final year CS major (2026). Open to collaborating, contributing, or helping out where it makes sense.  
+Final year CS major (2026), Full Stack SWE Intern @ Airbus. Open to collaborating, contributing, or helping out where it makes sense.  
 
 
 #### Currently
