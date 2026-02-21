@@ -18,8 +18,8 @@ Full Stack SWE Intern (AI/ML) @ Airbus, Final year CS major (2026). Open to coll
 
 
 #### Currently
-- Deploying production-style workloads on **AWS**.  
-- Trying out **Java + Spring**.
+- Deploying production workloads on **AWS**.  
+- Trying out **Angular** for work.
 - Exploring Distributed Systems
 ---
 
