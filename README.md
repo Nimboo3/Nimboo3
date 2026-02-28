@@ -63,8 +63,8 @@ Full Stack SWE Intern (AI/ML) @ Airbus, Final year CS major (2026). Open to coll
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-%23007ACC.svg?style=for-the-badge&logo=opensearch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pgvector-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<!--  <img src="https://img.shields.io/badge/RAG-%23007ACC.svg?style=for-the-badge&logo=opensearch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pgvector-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"/> -->
 </p>
 
 <h4>Cloud & DevOps</h4>
@@ -73,9 +73,9 @@ Full Stack SWE Intern (AI/ML) @ Airbus, Final year CS major (2026). Open to coll
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
   <!-- <img src="https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/NGINX-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Serverless-%23FD5750.svg?style=for-the-badge&logo=serverless&logoColor=white"/>
+  <!-- <img src="https://img.shields.io/badge/Serverless-%23FD5750.svg?style=for-the-badge&logo=serverless&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/Terraform-%237B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sentry-%23FB4226.svg?style=for-the-badge&logo=sentry&logoColor=white"/>
+  <!-- <img src="https://img.shields.io/badge/Sentry-%23FB4226.svg?style=for-the-badge&logo=sentry&logoColor=white"/> -->
 </p>
 <br>
 
