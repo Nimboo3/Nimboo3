@@ -25,7 +25,7 @@ Full Stack SWE Intern (AI/ML) @ Airbus, Final year CS major (2026). Open to coll
 
 
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Nimboo3?cardType=level&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/t-maypat?cardType=level&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
 <img width="203" height="203" alt="image" src="https://github.com/user-attachments/assets/a2afb4a0-165b-40c1-970f-02244d694bfd" />
 
 
