@@ -14,13 +14,9 @@
 
 
 
-Full Stack SWE Intern @ Airbus, CS Major. Open to collaborating, contributing, or helping out where it makes sense.  
+SWE Intern @ Airbus, CS Major. Open to collaborating, contributing, or helping out where it makes sense.  
 
 
-#### Currently
-- trying out **Angular** for work.
-- deploying production workloads on **AWS**.<!-- Tradcoding in TypeScript (intern perk). -->
-- tradcoding on corp account to pay for sins committed here.
 
 ---
 
