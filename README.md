@@ -18,7 +18,6 @@ SWE Intern @ Airbus, CS Major. Open to collaborating, contributing, or helping o
 
 Currently busy:
   - working on a high scale ticket system and CRM.
-  - fooling the PMs.
   - tradcoding after burning claude on ultracode.
 
 
