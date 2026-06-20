@@ -1,10 +1,10 @@
 # Hey there, I'm Tanmay!  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tanmaypatel3/" target="_blank" rel="noopener noreferrer">
+ <!--  <a href="https://www.linkedin.com/in/tanmaypatel3/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <!-- <a href="https://x.com/dement0phobe" target="_blank" rel="noopener noreferrer">
+  <a href="https://x.com/dement0phobe" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
   </a> -->
   <!-- <a href="https://github.com/sponsors/Nimboo3" target="_blank" rel="noopener noreferrer">
@@ -14,7 +14,8 @@
 
 
 
-SWE Intern @ Airbus, CS Major. Open to collaborating, contributing, or helping out where it makes sense.  
+SWE Intern @ Airbus, CS Major. Backend-heavy full stack. 
+Open to collaborating, contributing, or helping out where it makes sense.  
 
 Currently busy:
   - working on a high scale ticket system and CRM.
