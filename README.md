@@ -64,6 +64,6 @@ Currently busy:
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 <br>
-
+<!--
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/tanmay-patel-bb1523100/) · tptanmaypatel9@gmail.com  
-
+-->
